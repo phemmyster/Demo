@@ -1,1 +1,3 @@
 Hello git using sourcetree!
+
+Second line of text in my first file.
